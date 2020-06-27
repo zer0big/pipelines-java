@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/zerobigdevops0507/ZerobigDevOpsDemo/_apis/build/status/zer0big.pipelines-java?branchName=master)](https://dev.azure.com/zerobigdevops0507/ZerobigDevOpsDemo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
